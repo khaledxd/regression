@@ -2,7 +2,7 @@
 
 A machine learning project predicting residential property prices using a large real-world dataset of 33,000+ Australian house sales. The project covers data cleaning, missing value handling, feature engineering, and benchmarking of multiple regression models.
 
----
+----
 
 ## 📊 Dataset
 
